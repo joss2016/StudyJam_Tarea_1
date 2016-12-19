@@ -1,5 +1,5 @@
 Ejemplo Básico Vistas (Views)
-========================
+============================
 
 Esta aplicacion es un ejemplo basico de vistas en Android, llevado a cabo dentro del contenido del **Study Jam Android Development for Beginners** por el [GDG Android Bolivia.](http://www.gdg.androidbolivia.com/)
 

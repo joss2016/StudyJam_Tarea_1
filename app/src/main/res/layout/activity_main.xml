@@ -195,7 +195,7 @@
                             android:id="@+id/tvUltMsj1"
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:text="u ciamdp regresas mi amigo..."
+                            android:text="Y cuando regresas mi amigo..."
                             android:textSize="15dp"
                             android:layout_marginLeft="10dp"
                             android:layout_weight="1"/>
